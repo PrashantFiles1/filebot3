@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://te.legra.ph/file/24ff323affa39cd96439e.jpg" alt="Lazy Princess Logo">
+  <img src="(https://te.legra.ph/file/ab9a88fc96ae8654704aa.jpg)" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
   <b> ForeverKnight AutoFilterBOT </b>
