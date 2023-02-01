@@ -2,7 +2,7 @@
   <img src="https://te.legra.ph/file/ab9a88fc96ae8654704aa.jpg" alt="PR Botz Logo">
 </p>
 <h1 align="center">
-  <b> ForeverKnight AutoFilterBOT </b>
+  <b> PR BOTZ </b>
 </h1>
 
 ## ⚡️Features
