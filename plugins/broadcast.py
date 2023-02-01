@@ -7,7 +7,7 @@ from info import ADMINS
 from utils import broadcast_messages
 import asyncio
         
-@Client.on_message(filters.command("broadcast") & filters.private(ADMINS) & filters.reply)
+@Client.on_message(filters.command("broadcast") & filters.user(ADMINS) & filters.reply)
 # https://t.me/LazyDeveoper
 async def verupikkals(bot, message):
     users = await db.get_all_users()
